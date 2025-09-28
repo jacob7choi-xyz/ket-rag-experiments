@@ -1,4 +1,14 @@
-# KET-RAG: Knowledge-Enhanced Text Retrieval Augmented Generation
+# KET-RAG Experiments: Knowledge-Enhanced Text Retrieval Augmented Generation 🎶
+
+This is my personal sandbox for tinkering with **KET-RAG** (Knowledge-Enhanced Text RAG),  
+a lightweight framework that combines retrieval with graph structures.  
+
+🔍 Focus areas I’m exploring:
+- Music discovery & new artist recommendations  
+- Personalized playlisting & mood-based search  
+- Explainable recommendations (why this track?)  
+
+Upstream project: [waetr/KET-RAG](https://github.com/waetr/KET-RAG)  
 
 <div align="center"> 
 <table border="0" width="100%">
